@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f44d1853e861758dbf55200eaa5f86a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c459a8ee6add703a96eb94807abcbc8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75633a9172cb16f99be6121190ff6726\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cc03b8d154e7455092bbb8ffad360d46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88b650976a1e6cd91a0b68bb85d69d72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a7ea18e721393e19ae5d943f510919f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6f6dc8590243bcbc197d5b306362bdbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ecb2e001ea9240eb32e64b955b290d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5d35cf200dcc9ddf939c3e54515c5906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eafdd76ca38b55d9688f5c9f97311c1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\253317e66fc026252848cd759aa6619f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3100930ab642e85c77a143d3b855ea62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2624cdb7951f98623d4e99b4db149df6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c3a4c3ed9e0e1819bb27321559a68213\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\075af8d27ee126f01f00254401215f4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\985bf2f7e5f61ddb42d2dab4b0967043\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284feacb3223cb509ec06bd34d5355f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850f70c6950935261490b4faa74f90b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\feaf628a6dcf111216f156fa71eece2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\868adcdbad16154c68a51963451ee5d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0383379ecce6dbb003339f159bab62ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\453cc791a0e22949d6090ec640091f45\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4b8e158793a8421016751968cdfc45a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\adecafca7fc1c110af4fcf33ada44f49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48b5e9d34db239774ecb3eff3ad75505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\22564f591c7e2a70fccd31ffa58083af\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c459a8ee6add703a96eb94807abcbc8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c459a8ee6add703a96eb94807abcbc8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\985bf2f7e5f61ddb42d2dab4b0967043\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\985bf2f7e5f61ddb42d2dab4b0967043\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.muzasarali.officialcalculator.MainActivity
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:screenOrientation
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:12:81-117
+	android:name
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:12:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:15:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:18:9-20:57
+	android:resource
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:20:13-54
+	android:name
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml:19:13-43
+uses-sdk
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f44d1853e861758dbf55200eaa5f86a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f44d1853e861758dbf55200eaa5f86a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c459a8ee6add703a96eb94807abcbc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c459a8ee6add703a96eb94807abcbc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75633a9172cb16f99be6121190ff6726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75633a9172cb16f99be6121190ff6726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cc03b8d154e7455092bbb8ffad360d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cc03b8d154e7455092bbb8ffad360d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88b650976a1e6cd91a0b68bb85d69d72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88b650976a1e6cd91a0b68bb85d69d72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a7ea18e721393e19ae5d943f510919f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a7ea18e721393e19ae5d943f510919f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6f6dc8590243bcbc197d5b306362bdbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6f6dc8590243bcbc197d5b306362bdbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ecb2e001ea9240eb32e64b955b290d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ecb2e001ea9240eb32e64b955b290d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5d35cf200dcc9ddf939c3e54515c5906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5d35cf200dcc9ddf939c3e54515c5906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eafdd76ca38b55d9688f5c9f97311c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eafdd76ca38b55d9688f5c9f97311c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\253317e66fc026252848cd759aa6619f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\253317e66fc026252848cd759aa6619f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3100930ab642e85c77a143d3b855ea62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3100930ab642e85c77a143d3b855ea62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2624cdb7951f98623d4e99b4db149df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2624cdb7951f98623d4e99b4db149df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c3a4c3ed9e0e1819bb27321559a68213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c3a4c3ed9e0e1819bb27321559a68213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\075af8d27ee126f01f00254401215f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\075af8d27ee126f01f00254401215f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba6f4b0cd60884dc171923cec2fbd4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\985bf2f7e5f61ddb42d2dab4b0967043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\985bf2f7e5f61ddb42d2dab4b0967043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284feacb3223cb509ec06bd34d5355f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284feacb3223cb509ec06bd34d5355f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850f70c6950935261490b4faa74f90b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850f70c6950935261490b4faa74f90b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\feaf628a6dcf111216f156fa71eece2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\feaf628a6dcf111216f156fa71eece2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\868adcdbad16154c68a51963451ee5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\868adcdbad16154c68a51963451ee5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0383379ecce6dbb003339f159bab62ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0383379ecce6dbb003339f159bab62ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\453cc791a0e22949d6090ec640091f45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\453cc791a0e22949d6090ec640091f45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4b8e158793a8421016751968cdfc45a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4b8e158793a8421016751968cdfc45a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\adecafca7fc1c110af4fcf33ada44f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\adecafca7fc1c110af4fcf33ada44f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48b5e9d34db239774ecb3eff3ad75505\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48b5e9d34db239774ecb3eff3ad75505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\22564f591c7e2a70fccd31ffa58083af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ashrafi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\22564f591c7e2a70fccd31ffa58083af\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashrafi\Desktop\rasabot\Android\CalculatorAndroid\OfficialCalculator\app\src\main\AndroidManifest.xml
